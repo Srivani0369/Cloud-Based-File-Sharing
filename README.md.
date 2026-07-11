@@ -1,0 +1,35 @@
+# Cloud File Sharing System
+
+A secure cloud-based file sharing application built using Node.js and Express.
+
+## Features
+
+- Upload files
+- Download files
+- Share files
+- Simple UI
+
+## Technologies
+
+- Node.js
+- Express.js
+- HTML
+- CSS
+- JavaScript
+
+## Installation
+
+```bash
+npm install
+npm start
+
+---
+
+# Add a `.gitignore`
+
+For Node.js projects:
+
+```text
+node_modules/
+.env
+uploads/
